@@ -1,0 +1,14 @@
+/Users/emintzcn/Projects/Kampİntro/Koleksiyonlar/bin/Debug/netcoreapp3.1/Koleksiyonlar
+/Users/emintzcn/Projects/Kampİntro/Koleksiyonlar/bin/Debug/netcoreapp3.1/Koleksiyonlar.deps.json
+/Users/emintzcn/Projects/Kampİntro/Koleksiyonlar/bin/Debug/netcoreapp3.1/Koleksiyonlar.runtimeconfig.json
+/Users/emintzcn/Projects/Kampİntro/Koleksiyonlar/bin/Debug/netcoreapp3.1/Koleksiyonlar.runtimeconfig.dev.json
+/Users/emintzcn/Projects/Kampİntro/Koleksiyonlar/bin/Debug/netcoreapp3.1/Koleksiyonlar.dll
+/Users/emintzcn/Projects/Kampİntro/Koleksiyonlar/bin/Debug/netcoreapp3.1/Koleksiyonlar.pdb
+/Users/emintzcn/Projects/Kampİntro/Koleksiyonlar/obj/Debug/netcoreapp3.1/Koleksiyonlar.csproj.AssemblyReference.cache
+/Users/emintzcn/Projects/Kampİntro/Koleksiyonlar/obj/Debug/netcoreapp3.1/Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emintzcn/Projects/Kampİntro/Koleksiyonlar/obj/Debug/netcoreapp3.1/Koleksiyonlar.AssemblyInfoInputs.cache
+/Users/emintzcn/Projects/Kampİntro/Koleksiyonlar/obj/Debug/netcoreapp3.1/Koleksiyonlar.AssemblyInfo.cs
+/Users/emintzcn/Projects/Kampİntro/Koleksiyonlar/obj/Debug/netcoreapp3.1/Koleksiyonlar.csproj.CoreCompileInputs.cache
+/Users/emintzcn/Projects/Kampİntro/Koleksiyonlar/obj/Debug/netcoreapp3.1/Koleksiyonlar.dll
+/Users/emintzcn/Projects/Kampİntro/Koleksiyonlar/obj/Debug/netcoreapp3.1/Koleksiyonlar.pdb
+/Users/emintzcn/Projects/Kampİntro/Koleksiyonlar/obj/Debug/netcoreapp3.1/Koleksiyonlar.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WJp94PW8ob9fKosuezyEZ49Dj2RiZBhZIwYyfDWr9j2WgPAexBauRBFdsmL2TmUzZMN9Sw8upL/xe1a2VG9pKg==",
+  "success": true,
+  "projectFilePath": "/Users/emintzcn/Projects/Kampİntro/Döngüler/Döngüler.csproj",
+  "expectedPackageFiles": [
+    "/Users/emintzcn/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/emintzcn/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/emintzcn/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

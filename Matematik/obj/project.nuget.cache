@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K7HN244+KG0LG335kdk7+gtGgDXqHK9RA2avWrxRsawOZeWI8D67p7bett7zAs3kWPA42cKJWYHtzV5lPswnIg==",
+  "success": true,
+  "projectFilePath": "/Users/emintzcn/Projects/Kampİntro/Matematik/Matematik.csproj",
+  "expectedPackageFiles": [
+    "/Users/emintzcn/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/emintzcn/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/emintzcn/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

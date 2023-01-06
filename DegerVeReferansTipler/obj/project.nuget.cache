@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TkEqAD7b+zv0wDyFsviZeEFto1iQhYnJdv/j6O6mitPmEAR0qtpE01TCNzCAlvWTd56qcC761MCb+SptduUc/g==",
+  "success": true,
+  "projectFilePath": "/Users/emintzcn/Projects/Kampİntro/DegerVeReferansTipler/DegerVeReferansTipler.csproj",
+  "expectedPackageFiles": [
+    "/Users/emintzcn/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/emintzcn/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/emintzcn/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

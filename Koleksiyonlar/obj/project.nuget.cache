@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LG1kVIhtOspk75iUkhKnHPDGVTgr5Ibti+qJW04tbrIDgCBBBdCDAc3NT8r/xK+C0yAR3Pdwm+Pl4iQIoiTULQ==",
+  "success": true,
+  "projectFilePath": "/Users/emintzcn/Projects/Kampİntro/Koleksiyonlar/Koleksiyonlar.csproj",
+  "expectedPackageFiles": [
+    "/Users/emintzcn/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/emintzcn/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/emintzcn/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

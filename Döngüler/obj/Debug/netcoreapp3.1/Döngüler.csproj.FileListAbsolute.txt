@@ -1,0 +1,14 @@
+/Users/emintzcn/Projects/Kampİntro/Döngüler/bin/Debug/netcoreapp3.1/Döngüler
+/Users/emintzcn/Projects/Kampİntro/Döngüler/bin/Debug/netcoreapp3.1/Döngüler.deps.json
+/Users/emintzcn/Projects/Kampİntro/Döngüler/bin/Debug/netcoreapp3.1/Döngüler.runtimeconfig.json
+/Users/emintzcn/Projects/Kampİntro/Döngüler/bin/Debug/netcoreapp3.1/Döngüler.runtimeconfig.dev.json
+/Users/emintzcn/Projects/Kampİntro/Döngüler/bin/Debug/netcoreapp3.1/Döngüler.dll
+/Users/emintzcn/Projects/Kampİntro/Döngüler/bin/Debug/netcoreapp3.1/Döngüler.pdb
+/Users/emintzcn/Projects/Kampİntro/Döngüler/obj/Debug/netcoreapp3.1/Döngüler.csproj.AssemblyReference.cache
+/Users/emintzcn/Projects/Kampİntro/Döngüler/obj/Debug/netcoreapp3.1/Döngüler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emintzcn/Projects/Kampİntro/Döngüler/obj/Debug/netcoreapp3.1/Döngüler.AssemblyInfoInputs.cache
+/Users/emintzcn/Projects/Kampİntro/Döngüler/obj/Debug/netcoreapp3.1/Döngüler.AssemblyInfo.cs
+/Users/emintzcn/Projects/Kampİntro/Döngüler/obj/Debug/netcoreapp3.1/Döngüler.csproj.CoreCompileInputs.cache
+/Users/emintzcn/Projects/Kampİntro/Döngüler/obj/Debug/netcoreapp3.1/Döngüler.dll
+/Users/emintzcn/Projects/Kampİntro/Döngüler/obj/Debug/netcoreapp3.1/Döngüler.pdb
+/Users/emintzcn/Projects/Kampİntro/Döngüler/obj/Debug/netcoreapp3.1/Döngüler.genruntimeconfig.cache

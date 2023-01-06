@@ -1,0 +1,14 @@
+/Users/emintzcn/Projects/Kampİntro/Metotlar/bin/Debug/netcoreapp3.1/Metotlar
+/Users/emintzcn/Projects/Kampİntro/Metotlar/bin/Debug/netcoreapp3.1/Metotlar.deps.json
+/Users/emintzcn/Projects/Kampİntro/Metotlar/bin/Debug/netcoreapp3.1/Metotlar.runtimeconfig.json
+/Users/emintzcn/Projects/Kampİntro/Metotlar/bin/Debug/netcoreapp3.1/Metotlar.runtimeconfig.dev.json
+/Users/emintzcn/Projects/Kampİntro/Metotlar/bin/Debug/netcoreapp3.1/Metotlar.dll
+/Users/emintzcn/Projects/Kampİntro/Metotlar/bin/Debug/netcoreapp3.1/Metotlar.pdb
+/Users/emintzcn/Projects/Kampİntro/Metotlar/obj/Debug/netcoreapp3.1/Metotlar.csproj.AssemblyReference.cache
+/Users/emintzcn/Projects/Kampİntro/Metotlar/obj/Debug/netcoreapp3.1/Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emintzcn/Projects/Kampİntro/Metotlar/obj/Debug/netcoreapp3.1/Metotlar.AssemblyInfoInputs.cache
+/Users/emintzcn/Projects/Kampİntro/Metotlar/obj/Debug/netcoreapp3.1/Metotlar.AssemblyInfo.cs
+/Users/emintzcn/Projects/Kampİntro/Metotlar/obj/Debug/netcoreapp3.1/Metotlar.csproj.CoreCompileInputs.cache
+/Users/emintzcn/Projects/Kampİntro/Metotlar/obj/Debug/netcoreapp3.1/Metotlar.dll
+/Users/emintzcn/Projects/Kampİntro/Metotlar/obj/Debug/netcoreapp3.1/Metotlar.pdb
+/Users/emintzcn/Projects/Kampİntro/Metotlar/obj/Debug/netcoreapp3.1/Metotlar.genruntimeconfig.cache

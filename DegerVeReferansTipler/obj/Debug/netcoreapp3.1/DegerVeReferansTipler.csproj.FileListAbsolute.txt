@@ -1,0 +1,5 @@
+/Users/emintzcn/Projects/Kampİntro/DegerVeReferansTipler/obj/Debug/netcoreapp3.1/DegerVeReferansTipler.csproj.AssemblyReference.cache
+/Users/emintzcn/Projects/Kampİntro/DegerVeReferansTipler/obj/Debug/netcoreapp3.1/DegerVeReferansTipler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emintzcn/Projects/Kampİntro/DegerVeReferansTipler/obj/Debug/netcoreapp3.1/DegerVeReferansTipler.AssemblyInfoInputs.cache
+/Users/emintzcn/Projects/Kampİntro/DegerVeReferansTipler/obj/Debug/netcoreapp3.1/DegerVeReferansTipler.AssemblyInfo.cs
+/Users/emintzcn/Projects/Kampİntro/DegerVeReferansTipler/obj/Debug/netcoreapp3.1/DegerVeReferansTipler.csproj.CoreCompileInputs.cache
